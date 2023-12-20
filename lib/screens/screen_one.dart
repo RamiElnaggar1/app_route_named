@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'route/app_route.dart' as route;
+import '../route/app_route.dart' as route;
 
 class ScreenOne extends StatelessWidget {
   const ScreenOne({super.key});

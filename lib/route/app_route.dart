@@ -1,5 +1,5 @@
-import 'package:app_route/screen_one.dart';
-import 'package:app_route/screen_tow.dart';
+import 'package:app_route/screens/screen_one.dart';
+import 'package:app_route/screens/screen_tow.dart';
 import 'package:flutter/material.dart';
 
 //Route Names

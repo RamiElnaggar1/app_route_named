@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'route/app_route.dart' as route;
+import '../route/app_route.dart' as route;
 
 class ScreenTow extends StatelessWidget {
   const ScreenTow({super.key});
